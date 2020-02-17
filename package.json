@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "parcel src/test.html",
+    "build": "rm -rf dist && parcel build src/index.html --no-minify --public-url ./"
+  },
+  "name": "pikachu-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jinchao1992 <jinchaophp@126.com>",
+  "license": "MIT"
+}
