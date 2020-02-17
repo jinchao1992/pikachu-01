@@ -12,6 +12,7 @@
 
 body {
   background-color: #FFE600;
+  min-height: 100vh;
 }
 
 .skin {
@@ -132,20 +133,6 @@ body {
   transform: rotate(15deg) translateX(53px);
 }
 
-/* .mouth .up .lip::before {
-  content: '';
-  width: 7px;
-  height: 30px;
-  position: absolute;
-  bottom: 0;
-  background: #FFE600;
-}
-.mouth .up .lip.left::before {
-  right: -6px;
-}
-.mouth .up .lip.right::before {
-  left: -6px;
-} */
 .mouth .up .line {
   width: 100px;
   height: 10px;
@@ -215,4 +202,4 @@ body {
   transform: translateX(170px);
 }
 
-/*# sourceMappingURL=/main.1f19ae8e.css.map */
+/*# sourceMappingURL=main.43650f87.css.map */
